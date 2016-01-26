@@ -140,7 +140,7 @@ translations.fr_FR = {  // replace en_US to ll_CC, examples: zh_CN, de_AT.
     'Upload Speed':'',
     'Estimated time':'',
     'Download Size':'',
-    'Downloaded':'',
+    'Downloaded':'Téléchargé',
     'Progress':'',
     'Download Path':'',
     'Uploaded':'',
